@@ -1,3 +1,7 @@
+#Team Name 
+Origin
+#Project Name
+
 EcoKerala: AI-Driven Sustainable Futures Platform
   
 ## Problem Statement
