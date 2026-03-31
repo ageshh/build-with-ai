@@ -49,15 +49,19 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 
 ## Installation Steps
 
-```bash
 # Clone the repository
 git clone <your-repo-link>
 
 # Go to project folder
-cd project-name
+cd ecokerala-app
 
-# Install dependencies
+# Install dependencies for the Expo project
 npm install
 
-# Run the project
-npm start
+# Set up your environment variables
+# 1. Create a .env file in the root directory
+# 2. Add EXPO_PUBLIC_WEATHER_API_KEY=your_openweathermap_key
+# 3. Add EXPO_PUBLIC_GEMINI_API_KEY=your_google_gemini_key
+
+# Run the project locally
+npx expo start
