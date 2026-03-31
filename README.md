@@ -29,7 +29,7 @@ Google's Gemini API serves as the core intelligence engine of the application. I
 ## Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
 
-![AI Proof](./proof/screenshot1.png)
+![AI Proof](./Screenshot124.png)
 
 ---
 
